@@ -1,0 +1,342 @@
+<?xml version="1.0" ?>
+<Data>
+  <Team>
+    <Name>Red Bull Racing</Name>
+    <Driver>
+      <Name>Max Verstappen</Name>
+      <CarNumber>1</CarNumber>
+      <Nationality>Dutch</Nationality>
+      <CarModel>RB21</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Liam Lawson</Name>
+      <CarNumber>30</CarNumber>
+      <Nationality>New Zealand</Nationality>
+      <CarModel>RB21</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>McLaren</Name>
+    <Driver>
+      <Name>Lando Norris</Name>
+      <CarNumber>4</CarNumber>
+      <Nationality>British</Nationality>
+      <CarModel>MCL39</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Oscar Piastri</Name>
+      <CarNumber>81</CarNumber>
+      <Nationality>Australian</Nationality>
+      <CarModel>MCL39</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Ferrari</Name>
+    <Driver>
+      <Name>Charles Leclerc</Name>
+      <CarNumber>16</CarNumber>
+      <Nationality>Monegasque</Nationality>
+      <CarModel>SF-25</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Lewis Hamilton</Name>
+      <CarNumber>44</CarNumber>
+      <Nationality>British</Nationality>
+      <CarModel>SF-25</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Mercedes</Name>
+    <Driver>
+      <Name>George Russell</Name>
+      <CarNumber>63</CarNumber>
+      <Nationality>British</Nationality>
+      <CarModel>W16</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Kimi Antonelli</Name>
+      <CarNumber>12</CarNumber>
+      <Nationality>Italian</Nationality>
+      <CarModel>W16</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Aston Martin</Name>
+    <Driver>
+      <Name>Fernando Alonso</Name>
+      <CarNumber>14</CarNumber>
+      <Nationality>Spanish</Nationality>
+      <CarModel>AMR25</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Lance Stroll</Name>
+      <CarNumber>18</CarNumber>
+      <Nationality>Canadian</Nationality>
+      <CarModel>AMR25</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Alpine</Name>
+    <Driver>
+      <Name>Pierre Gasly</Name>
+      <CarNumber>10</CarNumber>
+      <Nationality>French</Nationality>
+      <CarModel>A525</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Jack Doohan</Name>
+      <CarNumber>61</CarNumber>
+      <Nationality>Australian</Nationality>
+      <CarModel>A525</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Williams</Name>
+    <Driver>
+      <Name>Alexander Albon</Name>
+      <CarNumber>23</CarNumber>
+      <Nationality>Thai</Nationality>
+      <CarModel>FW47</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Carlos Sainz</Name>
+      <CarNumber>55</CarNumber>
+      <Nationality>Spanish</Nationality>
+      <CarModel>FW47</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Racing Bulls</Name>
+    <Driver>
+      <Name>Yuki Tsunoda</Name>
+      <CarNumber>22</CarNumber>
+      <Nationality>Japanese</Nationality>
+      <CarModel>RB02</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Isack Hadjar</Name>
+      <CarNumber>20</CarNumber>
+      <Nationality>French</Nationality>
+      <CarModel>RB02</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Sauber</Name>
+    <Driver>
+      <Name>Nico Hulkenberg</Name>
+      <CarNumber>27</CarNumber>
+      <Nationality>German</Nationality>
+      <CarModel>C45</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Gabriel Bortoletto</Name>
+      <CarNumber>5</CarNumber>
+      <Nationality>Brasilian</Nationality>
+      <CarModel>C45</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Team>
+    <Name>Haas</Name>
+    <Driver>
+      <Name>Oliver Bearman</Name>
+      <CarNumber>87</CarNumber>
+      <Nationality>British</Nationality>
+      <CarModel>VF-25</CarModel>
+      <Points>0</Points>
+    </Driver>
+    <Driver>
+      <Name>Esteban Ocon</Name>
+      <CarNumber>31</CarNumber>
+      <Nationality>French</Nationality>
+      <CarModel>VF-25</CarModel>
+      <Points>0</Points>
+    </Driver>
+  </Team>
+  <Race>
+    <Date>2025-03-16</Date>
+    <Circuit>Albert Park</Circuit>
+    <Country>Australia</Country>
+    <Sprint>0</Sprint>
+    <Completed>1</Completed>
+    <DriverPoints>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</DriverPoints>
+  </Race>
+  <Race>
+    <Date>2025-03-23</Date>
+    <Circuit>Shanghai International</Circuit>
+    <Country>China</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-04-06</Date>
+    <Circuit>Suzuka</Circuit>
+    <Country>Japan</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-04-13</Date>
+    <Circuit>Bahrain International</Circuit>
+    <Country>Bahrain</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-04-20</Date>
+    <Circuit>Jeddah Corniche</Circuit>
+    <Country>Saudi Arabia</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-05-04</Date>
+    <Circuit>Miami</Circuit>
+    <Country>USA</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-05-18</Date>
+    <Circuit>Imola</Circuit>
+    <Country>Italy</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-05-25</Date>
+    <Circuit>Monaco</Circuit>
+    <Country>Monaco</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-06-01</Date>
+    <Circuit>Barcelona</Circuit>
+    <Country>Spain</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-06-15</Date>
+    <Circuit>Montreal</Circuit>
+    <Country>Canada</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-06-29</Date>
+    <Circuit>Red Bull Ring</Circuit>
+    <Country>Austria</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-07-06</Date>
+    <Circuit>Silverstone</Circuit>
+    <Country>UK</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-07-27</Date>
+    <Circuit>Spa-Francorchamps</Circuit>
+    <Country>Belgium</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-08-03</Date>
+    <Circuit>Hungaroring</Circuit>
+    <Country>Hungary</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-08-31</Date>
+    <Circuit>Zandvoort</Circuit>
+    <Country>Netherlands</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-09-07</Date>
+    <Circuit>Monza</Circuit>
+    <Country>Italy</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-09-21</Date>
+    <Circuit>Baku City</Circuit>
+    <Country>Azerbaijan</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-10-05</Date>
+    <Circuit>Marina Bay</Circuit>
+    <Country>Singapore</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-10-19</Date>
+    <Circuit>Circuit of the Americas</Circuit>
+    <Country>USA</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-10-26</Date>
+    <Circuit>Mexico City</Circuit>
+    <Country>Mexico</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-11-09</Date>
+    <Circuit>Interlagos</Circuit>
+    <Country>Brazil</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-11-23</Date>
+    <Circuit>Las Vegas</Circuit>
+    <Country>USA</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-11-30</Date>
+    <Circuit>Losail</Circuit>
+    <Country>Qatar</Country>
+    <Sprint>1</Sprint>
+    <Completed>0</Completed>
+  </Race>
+  <Race>
+    <Date>2025-12-07</Date>
+    <Circuit>Yas Marina</Circuit>
+    <Country>Abu Dhabi</Country>
+    <Sprint>0</Sprint>
+    <Completed>0</Completed>
+  </Race>
+</Data>
